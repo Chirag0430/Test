@@ -1,2 +1,3 @@
 test3 for master
 test3 for branch1
+test3 for branch2
